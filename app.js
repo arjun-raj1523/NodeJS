@@ -1,3 +1,3 @@
 var movies=require('./movies');
-movies.func1();
-movies.func2();
+movies.function1();
+movies.function2();
